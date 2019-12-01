@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "an app to find a place to eat",
+    "githubUrl": "https://github.com/yikeda6616/gurumeshiv2"
   }
 }
